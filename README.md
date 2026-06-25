@@ -38,4 +38,4 @@ Customer retention is one of the major challenges faced by telecom companies. Th
 ## Author
 
 Sameer Ahmad
-B.Tech Information Technology
+B.Tech - Information Technology
